@@ -1,7 +1,0 @@
-port: 22984
-IP: 166.78.107.56
-UID: jeff
-passwd: <youprovided>
-
-I created a new grp with RW access to /var/www. 
-You should also be able to sudo as a member of the admin grp...
