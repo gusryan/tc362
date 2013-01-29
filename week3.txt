@@ -1,0 +1,17 @@
+Week 3:
+
+>ls /usr/bin |wc -l = 579 files
+
+
+low mem usage overall - "top" command shows apache & init as the top 2 (<0.5)
+
+
+TZ = GMT / UTC or Eastern TZ +5
+
+
+>cat /etc/group |wc -l = 56 groups (I added four, so 52 by default)
+
+
+>php ./362.php >> next # in the sequence is the sum of the (2) preceding #s
+
+
