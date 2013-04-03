@@ -1,0 +1,24 @@
+SITE:
+http://ruby.zypoz.com
+
+IP: 166.78.107.56
+SSH port: 22984
+
+Credentials:
+jeff:siarto (you are a sudoer, so should be good from the shell)
+
+Rails is running on apache, so I guess I am shooting for the 3.5 project:
+I figured I don't need all the points left/available t get a 4.0 in this class, since 
+I appear ot be trending at 100% at the moment. I trust I am on the high end of the curve.
+I'll be slightly embarrased if I don't 4.0, but it won't be the end of the world.. :)
+
+
+Two sites being served at present:
+http://wordpress.zypoz.com
+http://ruby.zypoz.com
+
+
+Grade away, kind sir!
+
+Cheers-
+-Ryan
