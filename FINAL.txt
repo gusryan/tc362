@@ -9,7 +9,7 @@ jeff:siarto (you are a sudoer, so should be good from the shell)
 
 Rails is running on apache, so I guess I am shooting for the 3.5 project:
 I figured I don't need all the points left/available to earn a 4.0 in this class, since 
-I appear ot be trending at 100% at the moment. I trust I am on the high end of the curve.
+I appear to be trending at 100% at the moment. I trust I am on the high end of the curve.
 I'll be slightly embarrased if I don't 4.0, but it won't be the end of the world.. :)
 
 
